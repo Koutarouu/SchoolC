@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1558479871 source:c:\users\alumno\documents\agenda\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

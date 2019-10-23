@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1557271442 source:c:\users\alumno\documents\arboles\main.cpp
+	<iostream>
+	"BST.h"
+	"Node.h"
+
+1557271717 c:\users\alumno\documents\arboles\bst.h
+	<iostream>
+	"Node.h"
+
+1557269414 c:\users\alumno\documents\arboles\node.h
+	"BST.h"
+
+1556927685 source:c:\users\administración\documents\arboles\main.cpp
+	<iostream>
+	"BST.h"
+	"Node.h"
+
+1556929046 c:\users\administración\documents\arboles\bst.h
+	<iostream>
+	"Node.h"
+
+1556660524 c:\users\administración\documents\arboles\node.h
+

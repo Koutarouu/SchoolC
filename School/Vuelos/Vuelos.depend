@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1554247227 source:c:\users\alumno\documents\vuelos\main.cpp
+	<iostream>
+	"Avion.h"
+
+1554248552 c:\users\alumno\documents\vuelos\avion.h
+	<iostream>
+	<string.h>
+	"pasajeros.h"
+
+1554248650 c:\users\alumno\documents\vuelos\pasajeros.h
+	<iostream>
+	<stdio.h>
+
+1554506396 source:c:\users\administración\documents\vuelos\main.cpp
+	<iostream>
+	"Avion.h"
+	"pasajeros.h"
+
+1554509671 c:\users\administración\documents\vuelos\avion.h
+	<iostream>
+	<string.h>
+	"pasajeros.h"
+
+1554503459 c:\users\administración\documents\vuelos\pasajeros.h
+	"Avion.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
